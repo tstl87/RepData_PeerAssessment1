@@ -2,7 +2,7 @@
 title: "Coursera Reproducible Research Project 1"
 author: "Skylar Trigueiro"
 date: "January 7, 2021"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
